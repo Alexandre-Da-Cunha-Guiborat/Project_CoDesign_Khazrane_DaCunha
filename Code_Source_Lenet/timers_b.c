@@ -581,7 +581,7 @@ unsigned long long int i64cycle(void)
 double dcycle(void)
 /* ------------- */
 {
-    int a;
+  //int a;
 	return (double) i64cycle();
 }
 #endif
