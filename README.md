@@ -1,4 +1,4 @@
-# Projet CoDesign - Alexandre DA-CUNHA GUIBORAT, Adam KHAZRANE
+# Projet CoDesign - Compte Rendu
 ## Sommaire
 1. [Introduction](#intro)
 2. [Profilage](#profilage)
