@@ -14,3 +14,6 @@ L'objectif du projet était d'implémenter une IA de reconnaissance de chiffres 
 Dans cette partie, nous avons effectué le profil d’éxecution d’un programme écrit en langage C qui éxecute un réseau de neurones (Lenet-Simard) de reconnaissance de caractères.
 
 ## ARM9 - Zynq
+
+Dans cette partie , nous allons éxecuter sur processeur ARM le code Lenet précédemmment effectué lors du profilage. 
+Pour cela il faudra d’abord instancier sur Vivado le processeur et apres sur SDK développer la partie code source qui sera éxecutée par le processeur.
