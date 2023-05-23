@@ -11,4 +11,4 @@ L'objectif du projet était d'implémenter une IA de reconnaissance de chiffres 
 
 ## Profilage
 
-Dans cette partie, nous avons effectué le profil d’éxecution d’un programme écrit en langage C qui execute un réseau de neurones (Lenet-Simard) de reconnaissance de caractères.
+Dans cette partie, nous avons effectué le profil d’éxecution d’un programme écrit en langage C qui éxecute un réseau de neurones (Lenet-Simard) de reconnaissance de caractères.
