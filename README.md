@@ -2,7 +2,7 @@
 ## Sommaire
 1. [Introduction](#introduction)
 2. [Profilage](#profilage)
-3. [ARM9 - Zynq](#arm9---Zynq)
+3. [ARM9 - Zynq](#arm9---zynq)
 4. [High Level Synthesis - HLS](#high-level-synthesis---hls)
 
 ## Introduction
