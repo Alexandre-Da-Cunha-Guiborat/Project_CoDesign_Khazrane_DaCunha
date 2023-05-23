@@ -16,4 +16,4 @@ Dans cette partie, nous avons effectué le profil d’éxecution d’un programm
 ## ARM9 - Zynq
 
 Dans cette partie , nous allons éxecuter sur processeur ARM le code Lenet précédemmment effectué lors du profilage. 
-Pour cela il faudra d’abord instancier sur Vivado le processeur et apres sur SDK développer la partie code source qui sera éxecutée par le processeur.
+Pour cela il faudra d’abord instancier sur Vivado le processeur, puis développer la partie code source sur SDK qui sera éxecutée par le processeur.
