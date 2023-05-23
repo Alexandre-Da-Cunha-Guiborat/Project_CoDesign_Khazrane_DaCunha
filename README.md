@@ -1,9 +1,9 @@
 # Projet CoDesign - Compte Rendu
 ## Sommaire
-1. [Introduction](#intro)
+1. [Introduction](#introduction)
 2. [Profilage](#profilage)
-3. [ARM9 - Zynq](#arm)
-4. [High Level Synthesis - HLS](#hls)
+3. [ARM9 - Zynq](#arm9---Zynq)
+4. [High Level Synthesis - HLS](#high-level-synthesis---hls)
 
 ## Introduction
 
@@ -12,3 +12,5 @@ L'objectif du projet était d'implémenter une IA de reconnaissance de chiffres 
 ## Profilage
 
 Dans cette partie, nous avons effectué le profil d’éxecution d’un programme écrit en langage C qui éxecute un réseau de neurones (Lenet-Simard) de reconnaissance de caractères.
+
+## ARM9 - Zynq
