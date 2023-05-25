@@ -15,7 +15,7 @@ L'objectif du projet était d'implémenter une IA de reconnaissance de chiffres 
 ## Profilage
 
 Dans cette partie, nous avons effectué le profil d’éxecution d’un programme écrit en langage C qui éxecute un réseau de neurones (Lenet-Simard) de reconnaissance de caractères.
-![Schéma du réseau Lenet-Simard](Alexandre-Da-Cunha-Guiborat/Project_CoDesign_Khazrane_DaCunha/edit/main/reseau lenet.png)
+![Schéma du réseau Lenet-Simard](images/reseau _lenet.png)
 
 Pour cela, on a utiliser la fonction Dtime(). En lançant a plusieur reprise le code nous avons obtenues les résultats.
 
